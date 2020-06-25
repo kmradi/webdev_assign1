@@ -15,18 +15,20 @@ h1{
     text-align: center;
     font-weight: bold;  
     color: rgb(0, 0, 141);
+    font-size: 175%;
 }
 .title{
     float: right;
     border: solid black 1px;
     height: 40px;
-    width: 80px;
+    width: 90px;
     padding-left:15px;
     padding-right:4px;
     padding-top:8px;
     padding-bottom:4px;
     color:black;
     font-weight: bold;
+    font-size: 125%;
 }
 .content{
     clear:both;
